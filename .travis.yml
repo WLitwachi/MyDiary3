@@ -14,3 +14,6 @@ after success:
   -coveralls
 
 cache: pip
+
+sudo: true
+dist: trusty
